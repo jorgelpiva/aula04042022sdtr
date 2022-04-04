@@ -1,0 +1,22 @@
+{
+  "name": "04042022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgelpiva/aula04042022sdtr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgelpiva/aula04042022sdtr/issues"
+  },
+  "homepage": "https://github.com/jorgelpiva/aula04042022sdtr#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
